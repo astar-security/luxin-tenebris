@@ -5,4 +5,4 @@ Plan to use:
 - foreman
 - freeIPA
 
-It's an excuse for developp my devops skills
+It's an excuse for improving my devops skills
